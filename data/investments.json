@@ -1,0 +1,2891 @@
+[{
+  "name": "Aguascalientes",
+  "total": 537,
+  "recs": [{
+    "year": "2004",
+    "Homicidio": 0,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 1,
+    "Fraude": 4,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2005",
+    "Homicidio": 0,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 6,
+    "Fraude": 17,
+    "Sustraccion de menores": 11,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 0,
+    "Secuestro": 16,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 9,
+    "Fraude": 18,
+    "Sustraccion de menores": 20,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 1,
+    "Secuestro": 9,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 9,
+    "Fraude": 20,
+    "Sustraccion de menores": 23,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 1,
+    "Secuestro": 18,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 12,
+    "Fraude": 7,
+    "Sustraccion de menores": 16,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 0,
+    "Secuestro": 19,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 5,
+    "Fraude": 9,
+    "Sustraccion de menores": 15,
+    "Otro": 1
+  }, {
+    "year": "2010",
+    "Homicidio": 0,
+    "Secuestro": 25,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 9,
+    "Fraude": 8,
+    "Sustraccion de menores": 16,
+    "Otro": 0
+  }, {
+    "year": "2011",
+    "Homicidio": 0,
+    "Secuestro": 22,
+    "Violacion": 0,
+    "Tortura": 2,
+    "Robo": 10,
+    "Fraude": 8,
+    "Sustraccion de menores": 23,
+    "Otro": 0
+  }, {
+    "year": "2012",
+    "Homicidio": 3,
+    "Secuestro": 20,
+    "Violacion": 0,
+    "Tortura": 2,
+    "Robo": 9,
+    "Fraude": 9,
+    "Sustraccion de menores": 15,
+    "Otro": 0
+  }, {
+    "year": "2013",
+    "Homicidio": 3,
+    "Secuestro": 21,
+    "Violacion": 0,
+    "Tortura": 3,
+    "Robo": 15,
+    "Fraude": 19,
+    "Sustraccion de menores": 19,
+    "Otro": 0
+  }]
+}, {
+  "name": "Baja California",
+  "total": 537,
+  "recs": [{
+    "year": "2004",
+    "Homicidio": 0,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 1,
+    "Fraude": 4,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2005",
+    "Homicidio": 0,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 6,
+    "Fraude": 17,
+    "Sustraccion de menores": 11,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 0,
+    "Secuestro": 16,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 9,
+    "Fraude": 18,
+    "Sustraccion de menores": 20,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 1,
+    "Secuestro": 9,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 9,
+    "Fraude": 20,
+    "Sustraccion de menores": 23,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 1,
+    "Secuestro": 18,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 12,
+    "Fraude": 7,
+    "Sustraccion de menores": 16,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 0,
+    "Secuestro": 19,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 5,
+    "Fraude": 9,
+    "Sustraccion de menores": 15,
+    "Otro": 1
+  }, {
+    "year": "2010",
+    "Homicidio": 0,
+    "Secuestro": 25,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 9,
+    "Fraude": 8,
+    "Sustraccion de menores": 16,
+    "Otro": 0
+  }, {
+    "year": "2011",
+    "Homicidio": 0,
+    "Secuestro": 22,
+    "Violacion": 0,
+    "Tortura": 2,
+    "Robo": 10,
+    "Fraude": 8,
+    "Sustraccion de menores": 23,
+    "Otro": 0
+  }, {
+    "year": "2012",
+    "Homicidio": 3,
+    "Secuestro": 20,
+    "Violacion": 0,
+    "Tortura": 2,
+    "Robo": 9,
+    "Fraude": 9,
+    "Sustraccion de menores": 15,
+    "Otro": 0
+  }, {
+    "year": "2013",
+    "Homicidio": 3,
+    "Secuestro": 21,
+    "Violacion": 0,
+    "Tortura": 3,
+    "Robo": 15,
+    "Fraude": 19,
+    "Sustraccion de menores": 19,
+    "Otro": 0
+  }]
+}, {
+  "name": "Baja California Sur",
+  "total": 503,
+  "recs": [{
+    "year": "2005",
+    "Homicidio": 8,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 0,
+    "Fraude": 0,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 18,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 0,
+    "Fraude": 0,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 33,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 0,
+    "Fraude": 0,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 39,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 0,
+    "Fraude": 0,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 37,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 0,
+    "Fraude": 0,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2010",
+    "Homicidio": 52,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 1,
+    "Fraude": 0,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2011",
+    "Homicidio": 69,
+    "Secuestro": 8,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 5,
+    "Fraude": 0,
+    "Sustraccion de menores": 0,
+    "Otro": 1
+  }, {
+    "year": "2012",
+    "Homicidio": 108,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 23,
+    "Fraude": 0,
+    "Sustraccion de menores": 0,
+    "Otro": 1
+  }, {
+    "year": "2013",
+    "Homicidio": 79,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 12,
+    "Fraude": 0,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }]
+}, {
+  "name": "Campeche",
+  "total": 501,
+  "recs": [{
+    "year": "2004",
+    "Homicidio": 1,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 2,
+    "Fraude": 0,
+    "Sustraccion de menores": 1,
+    "Otro": 0
+  }, {
+    "year": "2005",
+    "Homicidio": 0,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 7,
+    "Fraude": 7,
+    "Sustraccion de menores": 9,
+    "Otro": 1
+  }, {
+    "year": "2006",
+    "Homicidio": 0,
+    "Secuestro": 6,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 7,
+    "Fraude": 11,
+    "Sustraccion de menores": 12,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 1,
+    "Secuestro": 7,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 10,
+    "Fraude": 12,
+    "Sustraccion de menores": 17,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 0,
+    "Secuestro": 6,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 12,
+    "Fraude": 14,
+    "Sustraccion de menores": 13,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 1,
+    "Secuestro": 6,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 8,
+    "Fraude": 15,
+    "Sustraccion de menores": 18,
+    "Otro": 1
+  }, {
+    "year": "2010",
+    "Homicidio": 0,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 9,
+    "Fraude": 5,
+    "Sustraccion de menores": 17,
+    "Otro": 1
+  }, {
+    "year": "2011",
+    "Homicidio": 3,
+    "Secuestro": 9,
+    "Violacion": 0,
+    "Tortura": 5,
+    "Robo": 11,
+    "Fraude": 22,
+    "Sustraccion de menores": 22,
+    "Otro": 0
+  }, {
+    "year": "2012",
+    "Homicidio": 7,
+    "Secuestro": 30,
+    "Violacion": 0,
+    "Tortura": 3,
+    "Robo": 23,
+    "Fraude": 11,
+    "Sustraccion de menores": 29,
+    "Otro": 2
+  }, {
+    "year": "2013",
+    "Homicidio": 6,
+    "Secuestro": 11,
+    "Violacion": 0,
+    "Tortura": 4,
+    "Robo": 21,
+    "Fraude": 14,
+    "Sustraccion de menores": 20,
+    "Otro": 1
+  }]
+}, {
+  "name": "Coahuila",
+  "total": 482,
+  "recs": [{
+    "year": "2004",
+    "Homicidio": 0,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 0,
+    "Fraude": 0,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2005",
+    "Homicidio": 1,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 5,
+    "Fraude": 1,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 11,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 9,
+    "Fraude": 3,
+    "Sustraccion de menores": 1,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 6,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 13,
+    "Fraude": 3,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 4,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 6,
+    "Fraude": 1,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 13,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 16,
+    "Fraude": 2,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2010",
+    "Homicidio": 32,
+    "Secuestro": 3,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 31,
+    "Fraude": 10,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2011",
+    "Homicidio": 47,
+    "Secuestro": 12,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 48,
+    "Fraude": 7,
+    "Sustraccion de menores": 3,
+    "Otro": 2
+  }, {
+    "year": "2012",
+    "Homicidio": 56,
+    "Secuestro": 15,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 43,
+    "Fraude": 0,
+    "Sustraccion de menores": 4,
+    "Otro": 1
+  }, {
+    "year": "2013",
+    "Homicidio": 17,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 43,
+    "Fraude": 3,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }]
+}, {
+  "name": "Colima",
+  "total": 473,
+  "recs": [{
+    "year": "2004",
+    "Homicidio": 0,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 0,
+    "Fraude": 0,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2005",
+    "Homicidio": 0,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 8,
+    "Fraude": 12,
+    "Sustraccion de menores": 6,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 0,
+    "Secuestro": 6,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 11,
+    "Fraude": 13,
+    "Sustraccion de menores": 15,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 2,
+    "Secuestro": 8,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 6,
+    "Fraude": 13,
+    "Sustraccion de menores": 13,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 1,
+    "Secuestro": 8,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 9,
+    "Fraude": 10,
+    "Sustraccion de menores": 17,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 0,
+    "Secuestro": 6,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 8,
+    "Fraude": 12,
+    "Sustraccion de menores": 10,
+    "Otro": 0
+  }, {
+    "year": "2010",
+    "Homicidio": 5,
+    "Secuestro": 11,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 13,
+    "Fraude": 11,
+    "Sustraccion de menores": 15,
+    "Otro": 2
+  }, {
+    "year": "2011",
+    "Homicidio": 5,
+    "Secuestro": 14,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 21,
+    "Fraude": 18,
+    "Sustraccion de menores": 9,
+    "Otro": 1
+  }, {
+    "year": "2012",
+    "Homicidio": 4,
+    "Secuestro": 18,
+    "Violacion": 0,
+    "Tortura": 3,
+    "Robo": 26,
+    "Fraude": 11,
+    "Sustraccion de menores": 19,
+    "Otro": 0
+  }, {
+    "year": "2013",
+    "Homicidio": 2,
+    "Secuestro": 7,
+    "Violacion": 0,
+    "Tortura": 2,
+    "Robo": 18,
+    "Fraude": 17,
+    "Sustraccion de menores": 18,
+    "Otro": 0
+  }]
+}, {
+  "name": "Chiapas",
+  "total": 464,
+  "recs": [{
+    "year": "2004",
+    "Homicidio": 0,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 0,
+    "Fraude": 1,
+    "Sustraccion de menores": 1,
+    "Otro": 0
+  }, {
+    "year": "Chihuahua",
+    "Homicidio": 1,
+    "Secuestro": 3,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 10,
+    "Fraude": 8,
+    "Sustraccion de menores": 4,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 0,
+    "Secuestro": 8,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 10,
+    "Fraude": 12,
+    "Sustraccion de menores": 9,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 0,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 5,
+    "Fraude": 9,
+    "Sustraccion de menores": 8,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 0,
+    "Secuestro": 3,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 7,
+    "Fraude": 11,
+    "Sustraccion de menores": 15,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 0,
+    "Secuestro": 11,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 5,
+    "Fraude": 14,
+    "Sustraccion de menores": 14,
+    "Otro": 1
+  }, {
+    "year": "2010",
+    "Homicidio": 2,
+    "Secuestro": 6,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 10,
+    "Fraude": 13,
+    "Sustraccion de menores": 17,
+    "Otro": 1
+  }, {
+    "year": "2011",
+    "Homicidio": 3,
+    "Secuestro": 13,
+    "Violacion": 0,
+    "Tortura": 10,
+    "Robo": 11,
+    "Fraude": 14,
+    "Sustraccion de menores": 25,
+    "Otro": 0
+  }, {
+    "year": "2012",
+    "Homicidio": 4,
+    "Secuestro": 18,
+    "Violacion": 0,
+    "Tortura": 10,
+    "Robo": 16,
+    "Fraude": 9,
+    "Sustraccion de menores": 25,
+    "Otro": 2
+  }, {
+    "year": "2013",
+    "Homicidio": 4,
+    "Secuestro": 8,
+    "Violacion": 0,
+    "Tortura": 3,
+    "Robo": 18,
+    "Fraude": 13,
+    "Sustraccion de menores": 27,
+    "Otro": 3
+  }]
+}, {
+  "name": "Distrito Federal",
+  "total": 460,
+  "recs": [{
+    "year": "2004",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 2,
+    "Fraude": 3,
+    "Sustraccion de menores": 2,
+    "Otro": 0
+  }, {
+    "year": "2005",
+    "Homicidio": 0,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 12,
+    "Fraude": 15,
+    "Sustraccion de menores": 9,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 0,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 13,
+    "Fraude": 11,
+    "Sustraccion de menores": 19,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 0,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 14,
+    "Fraude": 16,
+    "Sustraccion de menores": 7,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 4,
+    "Secuestro": 9,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 21,
+    "Fraude": 18,
+    "Sustraccion de menores": 18,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 1,
+    "Secuestro": 16,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 14,
+    "Fraude": 6,
+    "Sustraccion de menores": 16,
+    "Otro": 2
+  }, {
+    "year": "2010",
+    "Homicidio": 1,
+    "Secuestro": 10,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 4,
+    "Fraude": 9,
+    "Sustraccion de menores": 17,
+    "Otro": 1
+  }, {
+    "year": "2011",
+    "Homicidio": 5,
+    "Secuestro": 10,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 6,
+    "Fraude": 4,
+    "Sustraccion de menores": 9,
+    "Otro": 0
+  }, {
+    "year": "2012",
+    "Homicidio": 3,
+    "Secuestro": 37,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 6,
+    "Fraude": 4,
+    "Sustraccion de menores": 15,
+    "Otro": 0
+  }, {
+    "year": "2013",
+    "Homicidio": 1,
+    "Secuestro": 17,
+    "Violacion": 0,
+    "Tortura": 3,
+    "Robo": 10,
+    "Fraude": 10,
+    "Sustraccion de menores": 16,
+    "Otro": 1
+  }]
+}, {
+  "name": "Durango",
+  "total": 382,
+  "recs": [{
+    "year": "2010",
+    "Homicidio": 31,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 11,
+    "Fraude": 2,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2011",
+    "Homicidio": 69,
+    "Secuestro": 8,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 17,
+    "Fraude": 1,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2012",
+    "Homicidio": 63,
+    "Secuestro": 10,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 33,
+    "Fraude": 2,
+    "Sustraccion de menores": 1,
+    "Otro": 0
+  }, {
+    "year": "2013",
+    "Homicidio": 73,
+    "Secuestro": 10,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 44,
+    "Fraude": 3,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }]
+}, {
+  "name": "Guanajuato",
+  "total": 363,
+  "recs": [{
+    "year": "2005",
+    "Homicidio": 4,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 5,
+    "Fraude": 0,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 3,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 10,
+    "Fraude": 4,
+    "Sustraccion de menores": 1,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 4,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 17,
+    "Fraude": 2,
+    "Sustraccion de menores": 1,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 7,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 8,
+    "Fraude": 9,
+    "Sustraccion de menores": 3,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 5,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 18,
+    "Fraude": 10,
+    "Sustraccion de menores": 4,
+    "Otro": 1
+  }, {
+    "year": "2010",
+    "Homicidio": 13,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 29,
+    "Fraude": 3,
+    "Sustraccion de menores": 8,
+    "Otro": 0
+  }, {
+    "year": "2011",
+    "Homicidio": 8,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 32,
+    "Fraude": 21,
+    "Sustraccion de menores": 4,
+    "Otro": 0
+  }, {
+    "year": "2012",
+    "Homicidio": 8,
+    "Secuestro": 9,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 29,
+    "Fraude": 2,
+    "Sustraccion de menores": 7,
+    "Otro": 0
+  }, {
+    "year": "2013",
+    "Homicidio": 8,
+    "Secuestro": 6,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 31,
+    "Fraude": 9,
+    "Sustraccion de menores": 9,
+    "Otro": 0
+  }]
+}, {
+  "name": "Guerrero",
+  "total": 311,
+  "recs": [{
+    "year": "2004",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 0,
+    "Fraude": 1,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2005",
+    "Homicidio": 0,
+    "Secuestro": 3,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 7,
+    "Fraude": 3,
+    "Sustraccion de menores": 6,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 0,
+    "Secuestro": 6,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 6,
+    "Fraude": 8,
+    "Sustraccion de menores": 10,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 0,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 10,
+    "Fraude": 7,
+    "Sustraccion de menores": 3,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 1,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 7,
+    "Fraude": 9,
+    "Sustraccion de menores": 9,
+    "Otro": 1
+  }, {
+    "year": "2009",
+    "Homicidio": 0,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 3,
+    "Fraude": 7,
+    "Sustraccion de menores": 7,
+    "Otro": 0
+  }, {
+    "year": "2010",
+    "Homicidio": 3,
+    "Secuestro": 7,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 8,
+    "Fraude": 6,
+    "Sustraccion de menores": 5,
+    "Otro": 0
+  }, {
+    "year": "2011",
+    "Homicidio": 5,
+    "Secuestro": 6,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 9,
+    "Fraude": 12,
+    "Sustraccion de menores": 11,
+    "Otro": 1
+  }, {
+    "year": "2012",
+    "Homicidio": 11,
+    "Secuestro": 6,
+    "Violacion": 0,
+    "Tortura": 2,
+    "Robo": 14,
+    "Fraude": 8,
+    "Sustraccion de menores": 17,
+    "Otro": 0
+  }, {
+    "year": "2013",
+    "Homicidio": 8,
+    "Secuestro": 7,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 13,
+    "Fraude": 13,
+    "Sustraccion de menores": 14,
+    "Otro": 0
+  }]
+}, {
+  "name": "Hidalgo",
+  "total": 310,
+  "recs": [{
+    "year": "2007",
+    "Homicidio": 10,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 0,
+    "Fraude": 0,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 10,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 0,
+    "Fraude": 0,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 19,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 0,
+    "Fraude": 0,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2010",
+    "Homicidio": 27,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 3,
+    "Fraude": 0,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2011",
+    "Homicidio": 63,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 2,
+    "Fraude": 0,
+    "Sustraccion de menores": 0,
+    "Otro": 1
+  }, {
+    "year": "2012",
+    "Homicidio": 72,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 2,
+    "Fraude": 1,
+    "Sustraccion de menores": 0,
+    "Otro": 1
+  }, {
+    "year": "2013",
+    "Homicidio": 90,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 4,
+    "Fraude": 0,
+    "Sustraccion de menores": 0,
+    "Otro": 1
+  }]
+}, {
+  "name": "Jalisco",
+  "total": 296,
+  "recs": [{
+    "year": "2004",
+    "Homicidio": 1,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 2,
+    "Fraude": 1,
+    "Sustraccion de menores": 1,
+    "Otro": 0
+  }, {
+    "year": "2005",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 4,
+    "Fraude": 6,
+    "Sustraccion de menores": 1,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 1,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 11,
+    "Fraude": 4,
+    "Sustraccion de menores": 1,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 0,
+    "Secuestro": 3,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 9,
+    "Fraude": 7,
+    "Sustraccion de menores": 1,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 1,
+    "Secuestro": 3,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 4,
+    "Fraude": 9,
+    "Sustraccion de menores": 3,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 5,
+    "Fraude": 5,
+    "Sustraccion de menores": 3,
+    "Otro": 0
+  }, {
+    "year": "2010",
+    "Homicidio": 3,
+    "Secuestro": 7,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 11,
+    "Fraude": 8,
+    "Sustraccion de menores": 5,
+    "Otro": 0
+  }, {
+    "year": "2011",
+    "Homicidio": 6,
+    "Secuestro": 6,
+    "Violacion": 0,
+    "Tortura": 2,
+    "Robo": 18,
+    "Fraude": 13,
+    "Sustraccion de menores": 6,
+    "Otro": 0
+  }, {
+    "year": "2012",
+    "Homicidio": 9,
+    "Secuestro": 13,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 10,
+    "Fraude": 14,
+    "Sustraccion de menores": 10,
+    "Otro": 0
+  }, {
+    "year": "2013",
+    "Homicidio": 6,
+    "Secuestro": 11,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 21,
+    "Fraude": 11,
+    "Sustraccion de menores": 15,
+    "Otro": 0
+  }]
+}, {
+  "name": "Mexico",
+  "total": 292,
+  "recs": [{
+    "year": "2004",
+    "Homicidio": 0,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 2,
+    "Fraude": 0,
+    "Sustraccion de menores": 2,
+    "Otro": 0
+  }, {
+    "year": "2005",
+    "Homicidio": 0,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 8,
+    "Fraude": 9,
+    "Sustraccion de menores": 6,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 0,
+    "Secuestro": 7,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 8,
+    "Fraude": 13,
+    "Sustraccion de menores": 11,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 0,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 11,
+    "Fraude": 9,
+    "Sustraccion de menores": 8,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 0,
+    "Secuestro": 3,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 12,
+    "Fraude": 16,
+    "Sustraccion de menores": 10,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 5,
+    "Fraude": 8,
+    "Sustraccion de menores": 12,
+    "Otro": 0
+  }, {
+    "year": "2010",
+    "Homicidio": 0,
+    "Secuestro": 3,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 4,
+    "Fraude": 6,
+    "Sustraccion de menores": 12,
+    "Otro": 1
+  }, {
+    "year": "2011",
+    "Homicidio": 1,
+    "Secuestro": 6,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 9,
+    "Fraude": 7,
+    "Sustraccion de menores": 13,
+    "Otro": 1
+  }, {
+    "year": "2012",
+    "Homicidio": 2,
+    "Secuestro": 7,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 8,
+    "Fraude": 7,
+    "Sustraccion de menores": 9,
+    "Otro": 0
+  }, {
+    "year": "2013",
+    "Homicidio": 0,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 3,
+    "Robo": 4,
+    "Fraude": 7,
+    "Sustraccion de menores": 13,
+    "Otro": 0
+  }]
+}, {
+  "name": "Michoacán",
+  "total": 285,
+  "recs": [{
+    "year": "2005",
+    "Homicidio": 0,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 5,
+    "Fraude": 3,
+    "Sustraccion de menores": 2,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 0,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 4,
+    "Fraude": 7,
+    "Sustraccion de menores": 2,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 1,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 11,
+    "Fraude": 10,
+    "Sustraccion de menores": 5,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 1,
+    "Secuestro": 3,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 6,
+    "Fraude": 6,
+    "Sustraccion de menores": 8,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 4,
+    "Fraude": 4,
+    "Sustraccion de menores": 9,
+    "Otro": 0
+  }, {
+    "year": "2010",
+    "Homicidio": 1,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 8,
+    "Fraude": 5,
+    "Sustraccion de menores": 9,
+    "Otro": 0
+  }, {
+    "year": "2011",
+    "Homicidio": 1,
+    "Secuestro": 6,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 9,
+    "Fraude": 14,
+    "Sustraccion de menores": 17,
+    "Otro": 1
+  }, {
+    "year": "2012",
+    "Homicidio": 3,
+    "Secuestro": 10,
+    "Violacion": 0,
+    "Tortura": 3,
+    "Robo": 20,
+    "Fraude": 6,
+    "Sustraccion de menores": 17,
+    "Otro": 0
+  }, {
+    "year": "2013",
+    "Homicidio": 2,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 3,
+    "Robo": 14,
+    "Fraude": 16,
+    "Sustraccion de menores": 10,
+    "Otro": 0
+  }]
+}, {
+  "name": "Morelos",
+  "total": 277,
+  "recs": [{
+    "year": "2004",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 1,
+    "Fraude": 0,
+    "Sustraccion de menores": 3,
+    "Otro": 0
+  }, {
+    "year": "2005",
+    "Homicidio": 1,
+    "Secuestro": 3,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 5,
+    "Fraude": 3,
+    "Sustraccion de menores": 7,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 0,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 4,
+    "Fraude": 8,
+    "Sustraccion de menores": 4,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 1,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 8,
+    "Fraude": 9,
+    "Sustraccion de menores": 10,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 0,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 4,
+    "Fraude": 6,
+    "Sustraccion de menores": 7,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 1,
+    "Secuestro": 3,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 6,
+    "Fraude": 8,
+    "Sustraccion de menores": 11,
+    "Otro": 0
+  }, {
+    "year": "2010",
+    "Homicidio": 3,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 8,
+    "Fraude": 5,
+    "Sustraccion de menores": 10,
+    "Otro": 1
+  }, {
+    "year": "2011",
+    "Homicidio": 0,
+    "Secuestro": 6,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 7,
+    "Fraude": 11,
+    "Sustraccion de menores": 15,
+    "Otro": 0
+  }, {
+    "year": "2012",
+    "Homicidio": 4,
+    "Secuestro": 8,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 6,
+    "Fraude": 6,
+    "Sustraccion de menores": 9,
+    "Otro": 1
+  }, {
+    "year": "2013",
+    "Homicidio": 4,
+    "Secuestro": 7,
+    "Violacion": 0,
+    "Tortura": 3,
+    "Robo": 14,
+    "Fraude": 9,
+    "Sustraccion de menores": 17,
+    "Otro": 1
+  }]
+}, {
+  "name": "Nayarit",
+  "total": 247,
+  "recs": [{
+    "year": "2009",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 5,
+    "Fraude": 2,
+    "Sustraccion de menores": 0,
+    "Otro": 1
+  }, {
+    "year": "2010",
+    "Homicidio": 8,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 7,
+    "Fraude": 3,
+    "Sustraccion de menores": 2,
+    "Otro": 0
+  }, {
+    "year": "2011",
+    "Homicidio": 6,
+    "Secuestro": 8,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 19,
+    "Fraude": 11,
+    "Sustraccion de menores": 8,
+    "Otro": 1
+  }, {
+    "year": "2012",
+    "Homicidio": 10,
+    "Secuestro": 15,
+    "Violacion": 0,
+    "Tortura": 2,
+    "Robo": 25,
+    "Fraude": 9,
+    "Sustraccion de menores": 9,
+    "Otro": 0
+  }, {
+    "year": "2013",
+    "Homicidio": 17,
+    "Secuestro": 7,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 41,
+    "Fraude": 13,
+    "Sustraccion de menores": 13,
+    "Otro": 2
+  }]
+}, {
+  "name": "Nuevo León",
+  "total": 246,
+  "recs": [{
+    "year": "2004",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 2,
+    "Fraude": 2,
+    "Sustraccion de menores": 1,
+    "Otro": 0
+  }, {
+    "year": "2005",
+    "Homicidio": 0,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 6,
+    "Fraude": 4,
+    "Sustraccion de menores": 7,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 0,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 6,
+    "Fraude": 7,
+    "Sustraccion de menores": 15,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 0,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 9,
+    "Fraude": 5,
+    "Sustraccion de menores": 7,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 7,
+    "Fraude": 5,
+    "Sustraccion de menores": 7,
+    "Otro": 1
+  }, {
+    "year": "2009",
+    "Homicidio": 1,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 5,
+    "Fraude": 5,
+    "Sustraccion de menores": 5,
+    "Otro": 0
+  }, {
+    "year": "2010",
+    "Homicidio": 1,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 7,
+    "Fraude": 7,
+    "Sustraccion de menores": 6,
+    "Otro": 0
+  }, {
+    "year": "2011",
+    "Homicidio": 2,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 7,
+    "Fraude": 12,
+    "Sustraccion de menores": 10,
+    "Otro": 0
+  }, {
+    "year": "2012",
+    "Homicidio": 2,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 9,
+    "Fraude": 5,
+    "Sustraccion de menores": 12,
+    "Otro": 0
+  }, {
+    "year": "2013",
+    "Homicidio": 2,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 2,
+    "Robo": 14,
+    "Fraude": 8,
+    "Sustraccion de menores": 10,
+    "Otro": 0
+  }]
+}, {
+  "name": "Oaxaca",
+  "total": 244,
+  "recs": [{
+    "year": "2004",
+    "Homicidio": 0,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 2,
+    "Fraude": 1,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2005",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 2,
+    "Fraude": 6,
+    "Sustraccion de menores": 2,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 0,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 5,
+    "Fraude": 5,
+    "Sustraccion de menores": 3,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 11,
+    "Fraude": 5,
+    "Sustraccion de menores": 6,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 0,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 8,
+    "Fraude": 6,
+    "Sustraccion de menores": 9,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 7,
+    "Fraude": 5,
+    "Sustraccion de menores": 7,
+    "Otro": 0
+  }, {
+    "year": "2010",
+    "Homicidio": 1,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 5,
+    "Fraude": 4,
+    "Sustraccion de menores": 5,
+    "Otro": 0
+  }, {
+    "year": "2011",
+    "Homicidio": 9,
+    "Secuestro": 7,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 12,
+    "Fraude": 4,
+    "Sustraccion de menores": 6,
+    "Otro": 0
+  }, {
+    "year": "2012",
+    "Homicidio": 6,
+    "Secuestro": 11,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 16,
+    "Fraude": 7,
+    "Sustraccion de menores": 6,
+    "Otro": 0
+  }, {
+    "year": "2013",
+    "Homicidio": 5,
+    "Secuestro": 3,
+    "Violacion": 0,
+    "Tortura": 2,
+    "Robo": 20,
+    "Fraude": 7,
+    "Sustraccion de menores": 5,
+    "Otro": 1
+  }]
+}, {
+  "name": "Puebla",
+  "total": 242,
+  "recs": [{
+    "year": "2004",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 1,
+    "Fraude": 0,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 0,
+    "Secuestro": 3,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 3,
+    "Fraude": 2,
+    "Sustraccion de menores": 1,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 1,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 12,
+    "Fraude": 12,
+    "Sustraccion de menores": 1,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 0,
+    "Secuestro": 7,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 4,
+    "Fraude": 9,
+    "Sustraccion de menores": 11,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 0,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 6,
+    "Fraude": 3,
+    "Sustraccion de menores": 5,
+    "Otro": 0
+  }, {
+    "year": "2010",
+    "Homicidio": 0,
+    "Secuestro": 3,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 2,
+    "Fraude": 10,
+    "Sustraccion de menores": 12,
+    "Otro": 1
+  }, {
+    "year": "2011",
+    "Homicidio": 1,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 8,
+    "Fraude": 11,
+    "Sustraccion de menores": 3,
+    "Otro": 0
+  }, {
+    "year": "2012",
+    "Homicidio": 3,
+    "Secuestro": 7,
+    "Violacion": 0,
+    "Tortura": 2,
+    "Robo": 15,
+    "Fraude": 8,
+    "Sustraccion de menores": 12,
+    "Otro": 1
+  }, {
+    "year": "2013",
+    "Homicidio": 3,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 5,
+    "Robo": 20,
+    "Fraude": 15,
+    "Sustraccion de menores": 7,
+    "Otro": 1
+  }]
+}, {
+  "name": "Querétaro",
+  "total": 238,
+  "recs": [{
+    "year": "2004",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 1,
+    "Fraude": 3,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2005",
+    "Homicidio": 0,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 1,
+    "Fraude": 6,
+    "Sustraccion de menores": 6,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 0,
+    "Secuestro": 3,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 6,
+    "Fraude": 11,
+    "Sustraccion de menores": 6,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 0,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 6,
+    "Fraude": 7,
+    "Sustraccion de menores": 15,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 0,
+    "Secuestro": 6,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 4,
+    "Fraude": 6,
+    "Sustraccion de menores": 6,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 0,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 1,
+    "Fraude": 4,
+    "Sustraccion de menores": 11,
+    "Otro": 0
+  }, {
+    "year": "2010",
+    "Homicidio": 0,
+    "Secuestro": 6,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 3,
+    "Fraude": 7,
+    "Sustraccion de menores": 9,
+    "Otro": 1
+  }, {
+    "year": "2011",
+    "Homicidio": 2,
+    "Secuestro": 3,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 7,
+    "Fraude": 7,
+    "Sustraccion de menores": 5,
+    "Otro": 0
+  }, {
+    "year": "2012",
+    "Homicidio": 2,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 7,
+    "Fraude": 7,
+    "Sustraccion de menores": 9,
+    "Otro": 0
+  }, {
+    "year": "2013",
+    "Homicidio": 6,
+    "Secuestro": 3,
+    "Violacion": 0,
+    "Tortura": 2,
+    "Robo": 12,
+    "Fraude": 1,
+    "Sustraccion de menores": 11,
+    "Otro": 2
+  }]
+}, {
+  "name": "Quintana Roo",
+  "total": 237,
+  "recs": [{
+    "year": "2004",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 1,
+    "Fraude": 0,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2005",
+    "Homicidio": 1,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 1,
+    "Fraude": 5,
+    "Sustraccion de menores": 8,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 2,
+    "Fraude": 2,
+    "Sustraccion de menores": 1,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 0,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 7,
+    "Fraude": 1,
+    "Sustraccion de menores": 4,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 1,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 7,
+    "Fraude": 9,
+    "Sustraccion de menores": 1,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 1,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 4,
+    "Fraude": 1,
+    "Sustraccion de menores": 4,
+    "Otro": 1
+  }, {
+    "year": "2010",
+    "Homicidio": 2,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 9,
+    "Fraude": 6,
+    "Sustraccion de menores": 6,
+    "Otro": 0
+  }, {
+    "year": "2011",
+    "Homicidio": 2,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 14,
+    "Fraude": 8,
+    "Sustraccion de menores": 7,
+    "Otro": 0
+  }, {
+    "year": "2012",
+    "Homicidio": 1,
+    "Secuestro": 13,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 22,
+    "Fraude": 6,
+    "Sustraccion de menores": 14,
+    "Otro": 0
+  }, {
+    "year": "2013",
+    "Homicidio": 2,
+    "Secuestro": 6,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 14,
+    "Fraude": 13,
+    "Sustraccion de menores": 12,
+    "Otro": 0
+  }]
+}, {
+  "name": "Yucatán",
+  "total": 233,
+  "recs": [{
+    "year": "2004",
+    "Homicidio": 0,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 1,
+    "Fraude": 0,
+    "Sustraccion de menores": 1,
+    "Otro": 0
+  }, {
+    "year": "2005",
+    "Homicidio": 0,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 6,
+    "Fraude": 2,
+    "Sustraccion de menores": 6,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 0,
+    "Secuestro": 8,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 8,
+    "Fraude": 8,
+    "Sustraccion de menores": 7,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 1,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 7,
+    "Fraude": 10,
+    "Sustraccion de menores": 8,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 0,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 9,
+    "Fraude": 8,
+    "Sustraccion de menores": 10,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 1,
+    "Secuestro": 6,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 6,
+    "Fraude": 6,
+    "Sustraccion de menores": 7,
+    "Otro": 0
+  }, {
+    "year": "2010",
+    "Homicidio": 0,
+    "Secuestro": 6,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 4,
+    "Fraude": 5,
+    "Sustraccion de menores": 10,
+    "Otro": 1
+  }, {
+    "year": "2011",
+    "Homicidio": 0,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 3,
+    "Fraude": 6,
+    "Sustraccion de menores": 6,
+    "Otro": 0
+  }, {
+    "year": "2012",
+    "Homicidio": 0,
+    "Secuestro": 7,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 5,
+    "Fraude": 2,
+    "Sustraccion de menores": 5,
+    "Otro": 1
+  }, {
+    "year": "2013",
+    "Homicidio": 0,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 2,
+    "Robo": 5,
+    "Fraude": 3,
+    "Sustraccion de menores": 11,
+    "Otro": 0
+  }]
+}, {
+  "name": "San Luis Potosí",
+  "total": 230,
+  "recs": [{
+    "year": "2004",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 1,
+    "Fraude": 1,
+    "Sustraccion de menores": 3,
+    "Otro": 0
+  }, {
+    "year": "2005",
+    "Homicidio": 0,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 4,
+    "Fraude": 5,
+    "Sustraccion de menores": 8,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 0,
+    "Secuestro": 3,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 6,
+    "Fraude": 3,
+    "Sustraccion de menores": 8,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 0,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 5,
+    "Fraude": 9,
+    "Sustraccion de menores": 11,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 0,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 2,
+    "Fraude": 8,
+    "Sustraccion de menores": 4,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 0,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 3,
+    "Fraude": 5,
+    "Sustraccion de menores": 16,
+    "Otro": 1
+  }, {
+    "year": "2010",
+    "Homicidio": 2,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 7,
+    "Fraude": 6,
+    "Sustraccion de menores": 12,
+    "Otro": 0
+  }, {
+    "year": "2011",
+    "Homicidio": 0,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 4,
+    "Fraude": 3,
+    "Sustraccion de menores": 8,
+    "Otro": 0
+  }, {
+    "year": "2012",
+    "Homicidio": 0,
+    "Secuestro": 14,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 7,
+    "Fraude": 7,
+    "Sustraccion de menores": 10,
+    "Otro": 1
+  }, {
+    "year": "2013",
+    "Homicidio": 0,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 2,
+    "Robo": 11,
+    "Fraude": 10,
+    "Sustraccion de menores": 3,
+    "Otro": 0
+  }]
+}, {
+  "name": "Sinaloa",
+  "total": 230,
+  "recs": [{
+    "year": "2007",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 0,
+    "Fraude": 1,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 2,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 2,
+    "Fraude": 0,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2010",
+    "Homicidio": 5,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 3,
+    "Fraude": 5,
+    "Sustraccion de menores": 3,
+    "Otro": 0
+  }, {
+    "year": "2011",
+    "Homicidio": 14,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 13,
+    "Fraude": 7,
+    "Sustraccion de menores": 9,
+    "Otro": 0
+  }, {
+    "year": "2012",
+    "Homicidio": 17,
+    "Secuestro": 14,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 32,
+    "Fraude": 4,
+    "Sustraccion de menores": 9,
+    "Otro": 2
+  }, {
+    "year": "2013",
+    "Homicidio": 14,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 2,
+    "Robo": 38,
+    "Fraude": 11,
+    "Sustraccion de menores": 7,
+    "Otro": 0
+  }]
+}, {
+  "name": "Sonora",
+  "total": 227,
+  "recs": [{
+    "year": "2004",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 3,
+    "Fraude": 1,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2005",
+    "Homicidio": 0,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 4,
+    "Fraude": 6,
+    "Sustraccion de menores": 2,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 0,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 3,
+    "Fraude": 6,
+    "Sustraccion de menores": 4,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 1,
+    "Secuestro": 3,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 8,
+    "Fraude": 9,
+    "Sustraccion de menores": 8,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 0,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 4,
+    "Fraude": 5,
+    "Sustraccion de menores": 6,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 0,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 7,
+    "Fraude": 7,
+    "Sustraccion de menores": 10,
+    "Otro": 0
+  }, {
+    "year": "2010",
+    "Homicidio": 1,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 4,
+    "Fraude": 10,
+    "Sustraccion de menores": 4,
+    "Otro": 2
+  }, {
+    "year": "2011",
+    "Homicidio": 1,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 10,
+    "Fraude": 6,
+    "Sustraccion de menores": 6,
+    "Otro": 0
+  }, {
+    "year": "2012",
+    "Homicidio": 3,
+    "Secuestro": 6,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 7,
+    "Fraude": 4,
+    "Sustraccion de menores": 9,
+    "Otro": 1
+  }, {
+    "year": "2013",
+    "Homicidio": 1,
+    "Secuestro": 3,
+    "Violacion": 0,
+    "Tortura": 2,
+    "Robo": 12,
+    "Fraude": 6,
+    "Sustraccion de menores": 8,
+    "Otro": 0
+  }]
+}, {
+  "name": "Tabasco",
+  "total": 223,
+  "recs": [{
+    "year": "2004",
+    "Homicidio": 1,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 0,
+    "Fraude": 1,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2005",
+    "Homicidio": 0,
+    "Secuestro": 3,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 5,
+    "Fraude": 4,
+    "Sustraccion de menores": 14,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 0,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 4,
+    "Fraude": 7,
+    "Sustraccion de menores": 10,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 0,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 4,
+    "Fraude": 9,
+    "Sustraccion de menores": 8,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 0,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 6,
+    "Fraude": 9,
+    "Sustraccion de menores": 7,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 0,
+    "Secuestro": 6,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 1,
+    "Fraude": 4,
+    "Sustraccion de menores": 6,
+    "Otro": 0
+  }, {
+    "year": "2010",
+    "Homicidio": 0,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 7,
+    "Fraude": 6,
+    "Sustraccion de menores": 7,
+    "Otro": 0
+  }, {
+    "year": "2011",
+    "Homicidio": 0,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 4,
+    "Fraude": 4,
+    "Sustraccion de menores": 7,
+    "Otro": 0
+  }, {
+    "year": "2012",
+    "Homicidio": 0,
+    "Secuestro": 11,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 3,
+    "Fraude": 5,
+    "Sustraccion de menores": 12,
+    "Otro": 0
+  }, {
+    "year": "2013",
+    "Homicidio": 0,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 4,
+    "Robo": 5,
+    "Fraude": 3,
+    "Sustraccion de menores": 10,
+    "Otro": 0
+  }]
+}, {
+  "name": "Tamaulipas",
+  "total": 220,
+  "recs": [{
+    "year": "2005",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 3,
+    "Fraude": 0,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 2,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 4,
+    "Fraude": 1,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 2,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 6,
+    "Fraude": 1,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 2,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 8,
+    "Fraude": 3,
+    "Sustraccion de menores": 2,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 5,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 14,
+    "Fraude": 2,
+    "Sustraccion de menores": 1,
+    "Otro": 0
+  }, {
+    "year": "2010",
+    "Homicidio": 8,
+    "Secuestro": 3,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 12,
+    "Fraude": 8,
+    "Sustraccion de menores": 2,
+    "Otro": 0
+  }, {
+    "year": "2011",
+    "Homicidio": 7,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 18,
+    "Fraude": 7,
+    "Sustraccion de menores": 4,
+    "Otro": 0
+  }, {
+    "year": "2012",
+    "Homicidio": 8,
+    "Secuestro": 12,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 16,
+    "Fraude": 4,
+    "Sustraccion de menores": 2,
+    "Otro": 0
+  }, {
+    "year": "2013",
+    "Homicidio": 6,
+    "Secuestro": 10,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 13,
+    "Fraude": 9,
+    "Sustraccion de menores": 5,
+    "Otro": 2
+  }]
+}, {
+  "name": "Tlaxcala",
+  "total": 220,
+  "recs": [{
+    "year": "2004",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 2,
+    "Fraude": 1,
+    "Sustraccion de menores": 0,
+    "Otro": 0
+  }, {
+    "year": "2005",
+    "Homicidio": 0,
+    "Secuestro": 3,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 6,
+    "Fraude": 5,
+    "Sustraccion de menores": 3,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 0,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 8,
+    "Fraude": 8,
+    "Sustraccion de menores": 1,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 0,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 6,
+    "Fraude": 6,
+    "Sustraccion de menores": 8,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 1,
+    "Fraude": 4,
+    "Sustraccion de menores": 7,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 1,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 4,
+    "Fraude": 2,
+    "Sustraccion de menores": 9,
+    "Otro": 0
+  }, {
+    "year": "2010",
+    "Homicidio": 2,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 0,
+    "Fraude": 5,
+    "Sustraccion de menores": 3,
+    "Otro": 0
+  }, {
+    "year": "2011",
+    "Homicidio": 5,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 9,
+    "Fraude": 0,
+    "Sustraccion de menores": 4,
+    "Otro": 0
+  }, {
+    "year": "2012",
+    "Homicidio": 8,
+    "Secuestro": 8,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 15,
+    "Fraude": 5,
+    "Sustraccion de menores": 6,
+    "Otro": 2
+  }, {
+    "year": "2013",
+    "Homicidio": 11,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 24,
+    "Fraude": 5,
+    "Sustraccion de menores": 2,
+    "Otro": 0
+  }]
+}, {
+  "name": "Veracruz",
+  "total": 218,
+  "recs": [{
+    "year": "2004",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 0,
+    "Fraude": 0,
+    "Sustraccion de menores": 1,
+    "Otro": 0
+  }, {
+    "year": "2005",
+    "Homicidio": 0,
+    "Secuestro": 0,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 3,
+    "Fraude": 1,
+    "Sustraccion de menores": 6,
+    "Otro": 0
+  }, {
+    "year": "2006",
+    "Homicidio": 0,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 5,
+    "Fraude": 4,
+    "Sustraccion de menores": 2,
+    "Otro": 0
+  }, {
+    "year": "2007",
+    "Homicidio": 3,
+    "Secuestro": 3,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 8,
+    "Fraude": 6,
+    "Sustraccion de menores": 3,
+    "Otro": 0
+  }, {
+    "year": "2008",
+    "Homicidio": 1,
+    "Secuestro": 2,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 4,
+    "Fraude": 8,
+    "Sustraccion de menores": 6,
+    "Otro": 0
+  }, {
+    "year": "2009",
+    "Homicidio": 0,
+    "Secuestro": 1,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 7,
+    "Fraude": 5,
+    "Sustraccion de menores": 6,
+    "Otro": 1
+  }, {
+    "year": "2010",
+    "Homicidio": 5,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 10,
+    "Fraude": 4,
+    "Sustraccion de menores": 6,
+    "Otro": 0
+  }, {
+    "year": "2011",
+    "Homicidio": 14,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 10,
+    "Fraude": 3,
+    "Sustraccion de menores": 4,
+    "Otro": 0
+  }, {
+    "year": "2012",
+    "Homicidio": 6,
+    "Secuestro": 5,
+    "Violacion": 0,
+    "Tortura": 1,
+    "Robo": 9,
+    "Fraude": 8,
+    "Sustraccion de menores": 4,
+    "Otro": 0
+  }, {
+    "year": "2013",
+    "Homicidio": 1,
+    "Secuestro": 4,
+    "Violacion": 0,
+    "Tortura": 0,
+    "Robo": 14,
+    "Fraude": 3,
+    "Sustraccion de menores": 4,
+    "Otro": 0
+  }]
+}]
